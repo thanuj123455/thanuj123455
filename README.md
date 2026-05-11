@@ -9,18 +9,18 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering (AI)** at Amrita Vishwa Vidyapeetham (CGPA: 7.87)
-- - 🤖 Passionate about **Deep Learning, Computer Vision & NLP**
-  - - 📜 **Published researcher** at ICOFE-2024 — Social Media Sentiment Analysis
-    - - 🏆 **Best Paper Award** at IEEE ETAACT 2026 — snow-resilient lane detection using UNet
-      - - 🥉 **3rd Place** at IEEE-CIS Hackathon 2024, Amrita Vishwa Vidyapeetham
-        - - 💼 Open to **internships, research collaborations & full-time opportunities**
+- B.Tech in **Computer Science & Engineering (AI)** at Amrita Vishwa Vidyapeetham, Bengaluru (CGPA: 7.87)
+- - Passionate about **Deep Learning, Computer Vision & NLP**
+  - - **Published researcher** at ICOFE-2024 — Social Media Sentiment Analysis
+    - - **Best Paper Award** at IEEE ETAACT 2026 — snow-resilient lane detection using UNet
+      - - **3rd Place** at IEEE-CIS Hackathon 2024, Amrita Vishwa Vidyapeetham
+        - - Open to **internships, research collaborations & full-time opportunities**
          
           - ---
 
-          ## 🛠️ Tech Stack
+          ## Tech Stack
 
           **Languages**
 
@@ -36,7 +36,7 @@
 
           ---
 
-          ## 🚀 Featured Projects
+          ## Featured Projects
 
           | Project | Description | Tech | Accuracy |
           |---------|-------------|------|----------|
@@ -47,23 +47,23 @@
 
           ---
 
-          ## 🏆 Achievements & Research
+          ## Achievements & Research
 
-          - 🪧 **Best Paper Award** — IEEE ETAACT 2026 for snow-resilient lane detection using UNet-based multi-class segmentation
-          - - 📜 **Published** at ICOFE-2024: Social Media Sentiment Analysis using ML & DL on Twitter dataset
-            - - 🥉 **3rd Place** — IEEE-CIS Hackathon 2024, Amrita Vishwa Vidyapeetham, Bengaluru
+          - **Best Paper Award** — IEEE ETAACT 2026 for snow-resilient lane detection using UNet-based multi-class segmentation
+          - - **Published** at ICOFE-2024: Social Media Sentiment Analysis using ML & DL on Twitter dataset
+            - - **3rd Place** — IEEE-CIS Hackathon 2024, Amrita Vishwa Vidyapeetham, Bengaluru
              
               - ---
 
-              ## 📜 Certifications
+              ## Certifications
 
-              - 🤖 **IBM Skill Boost (2024)** — Artificial Intelligence Fundamentals
-              - - ☁️ **AWS Academy Graduate (2024)** — Introduction to Cloud Semester 1
-                - - 📊 **MathWorks (2025)** — Matlab and Image Processing Onramp
+              - **IBM Skill Boost (2024)** — Artificial Intelligence Fundamentals
+              - - **AWS Academy Graduate (2024)** — Introduction to Cloud Semester 1
+                - - **MathWorks (2025)** — Matlab and Image Processing Onramp
                  
                   - ---
 
-                  ## 📊 GitHub Stats
+                  ## GitHub Stats
 
                   ![Thanuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanuj123455&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -73,11 +73,12 @@
 
                   ---
 
-                  ## 🤝 Let's Connect!
+                  ## Let's Connect!
 
+                  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-thanuj-118b68254)
                   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanuj123455)
+                  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanujraja@gmail.com)
 
                   ---
 
-                  > ⭐️ Feel free to explore my repos and drop a star if something useful!
-                  > > 📬 Reach me at **thanujraja@gmail.com**
+                  > Feel free to explore my repos and drop a star if you find something useful! Reach me at **thanujraja@gmail.com**
