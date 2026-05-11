@@ -53,7 +53,7 @@
           |---------|-------------|------|----------|
           | [Thanuj_NLP_Assignment](https://github.com/thanuj123455/Thanuj_NLP_Assignment) | NLP Rating Predictor using RoBERTa with custom Weighted Cross-Entropy Loss on Google Play reviews | PyTorch, Transformers | - |
           | [Solar Panel Fault Detection](https://github.com/thanuj123455) | Compared CNNs, CBAM attention & hybrid ResNet50/VGG16 models for fault detection in solar panels from aerial images | PyTorch, OpenCV | **97.12%** |
-          | [Coral Reef Health Monitoring](https://github.com/thanuj123455) | Ensemble deep learning model (custom CNN + VGG16 + majority voting) for coral image classification | PyTorch | **84%** |
+          | [Coral Reef Health Monitoring](https://github.com/thanuj123455/coral-reef-health-classification) | Ensemble deep learning model (custom CNN + VGG16 + majority voting) for coral image classification | PyTorch | **84%** |
           | [Python-QueueCTL](https://github.com/thanuj123455/Python-QueueCTL) | Modular Python job queue system with CLI, background workers, retries & Dead Letter Queue | Python | - |
           | [kaiburr-task1-restapi](https://github.com/thanuj123455/kaiburr-task1-restapi) | Java Spring Boot REST API with MongoDB for task & execution log management | Java, Spring Boot | - |
 
