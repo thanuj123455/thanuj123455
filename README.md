@@ -1,6 +1,5 @@
 # Hi there, I'm Thanuj Raja 👋
-
-**B.Tech CSE (AI) Student @ Amrita Vishwa Vidyapeetham, Bengaluru**
+**B.Tech CSE (AI) Graduate @ Amrita Vishwa Vidyapeetham, Bengaluru | Open to AI/ML Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-thanuj-118b68254)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanuj123455)
@@ -11,9 +10,9 @@
 
 ## About Me
 
-I am a B.Tech student in **Computer Science & Engineering (AI)** at Amrita Vishwa Vidyapeetham, Bengaluru (CGPA: 7.97), passionate about building AI-powered applications using **LLMs, Retrieval-Augmented Generation (RAG), Deep Learning & Computer Vision**.
+I am a B.Tech graduate in **Computer Science & Engineering (AI)** from Amrita Vishwa Vidyapeetham, Bengaluru (CGPA: 7.97, Class of June 2026), passionate about building AI-powered applications using **LLMs, Retrieval-Augmented Generation (RAG), Deep Learning & Computer Vision**.
 
-I am a **published researcher** (ICOFE-2024), **Best Paper Award winner** at IEEE ETAACT 2026 for snow-resilient lane detection using UNet, and **3rd Place** at the IEEE-CIS Hackathon 2024. I am actively looking for **internships, research collaborations & full-time opportunities**.
+I am a **published researcher** (ICOFE-2024), **Best Paper Award winner** at IEEE ETAACT 2026 for snow-resilient lane detection using UNet, and **3rd Place** at the IEEE-CIS Hackathon 2024. I am actively seeking **full-time roles, research collaborations & AI/ML opportunities** — open to relocation and remote work.
 
 ---
 
